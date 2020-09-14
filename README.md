@@ -1,4 +1,4 @@
 # hello-world
 nauka podstaw git
 Hej
-To tylko testpwy tekst!
+To tylko testowy tekst!
